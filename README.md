@@ -1,2 +1,0 @@
-# Authenticate
-Telegram Auth
